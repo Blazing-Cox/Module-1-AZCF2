@@ -367,6 +367,7 @@
 "Assets/Scripts/Pacer.cs"
 "Assets/Scripts/PlayerController.cs"
 "Assets/Scripts/Rotator.cs"
+"Assets/Scripts/thescript.cs"
 -langversion:9.0
 /deterministic
 /optimize+
